@@ -22,7 +22,7 @@
         }
 
         body{
-            background-color: #e0e5ff;
+            background-color: #fdfff3ff;
             font-size:16px;
             overflow-x: hidden; /* Previene scroll horizontal */
         }
@@ -128,13 +128,14 @@
         .gallery li .box h3 {
             margin-bottom: 6px;
             text-align: center;
-            font-size: 1.125rem;
+            font-size: 1.7rem;
             font-weight: bold;
             line-height: 100%;
             text-transform: uppercase;
             color: #17181a;
             letter-spacing: 2px;
             height: 10vh;
+            font-family: "Trebuchet MS";
         }
 
         .gallery li .box p {
@@ -142,6 +143,7 @@
             font-size: 2rem;
             font-weight: bold;
             color: #000000e7;
+            font-family: "Verdana";
         }
 
         .gallery li .box time {
@@ -168,7 +170,7 @@
 
         footer {
             text-align: center;
-            background-color: #f8f9fa;
+            background-color: #9e9e94ff;
             padding: 40px 20px 20px 20px;
             font-family: "Oswald", sans-serif;
             border-top: 1px solid #e1e8ee;
@@ -202,7 +204,7 @@
         }
 
         .footer-nav ul li a:hover {
-            color: #e50c39;
+            color: #c20027ff;
         }
 
         .footer-social {
@@ -227,7 +229,7 @@
             text-align: center;
             font-size: 0.9rem;
             color: #666;
-            border-top: 1px solid #e1e8ee;
+            border-top: 1px solid #666;
             padding-top: 20px;
         }
 
